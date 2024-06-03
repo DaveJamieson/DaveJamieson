@@ -1,16 +1,22 @@
 ## Hi there 👋
 
+I'm a Junior Developer with a lifelong passion for unraveling the mysteries of technology. 
+
+From dissecting electronic components to leading a successful electrical business, my journey has been fueled by a relentless curiosity and a commitment to excellence.
+
+- 🔭 I’m currently working on: <a href='https://github.com/DaveJamieson/project-quote-calculator.git'>Project Quote Calculator</a>
+- 📫 How to reach me: (https://www.linkedin.com/in/dave33jamieson/)
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning: backend web development - Mongo, Express, Node.js && Typescript
+
 <!--
 **DaveJamieson/DaveJamieson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
